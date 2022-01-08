@@ -12,3 +12,16 @@ C:\Users\esp11\source\repos\MyAI\obj\Debug\netcoreapp3.1\MyAI.csproj.CoreCompile
 C:\Users\esp11\source\repos\MyAI\obj\Debug\netcoreapp3.1\MyAI.dll
 C:\Users\esp11\source\repos\MyAI\obj\Debug\netcoreapp3.1\MyAI.pdb
 C:\Users\esp11\source\repos\MyAI\obj\Debug\netcoreapp3.1\MyAI.genruntimeconfig.cache
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\bin\Debug\netcoreapp3.1\MyAI.exe
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\bin\Debug\netcoreapp3.1\MyAI.deps.json
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\bin\Debug\netcoreapp3.1\MyAI.runtimeconfig.json
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\bin\Debug\netcoreapp3.1\MyAI.runtimeconfig.dev.json
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\bin\Debug\netcoreapp3.1\MyAI.dll
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\bin\Debug\netcoreapp3.1\MyAI.pdb
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\obj\Debug\netcoreapp3.1\MyAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\obj\Debug\netcoreapp3.1\MyAI.AssemblyInfoInputs.cache
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\obj\Debug\netcoreapp3.1\MyAI.AssemblyInfo.cs
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\obj\Debug\netcoreapp3.1\MyAI.csproj.CoreCompileInputs.cache
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\obj\Debug\netcoreapp3.1\MyAI.dll
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\obj\Debug\netcoreapp3.1\MyAI.pdb
+C:\Users\esp11\Source\Repos\nahakahaka\MyCSharpCode2\obj\Debug\netcoreapp3.1\MyAI.genruntimeconfig.cache

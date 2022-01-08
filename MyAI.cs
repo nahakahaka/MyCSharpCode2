@@ -177,9 +177,8 @@ namespace MyAI
                 }
                 Console.WriteLine();
             }
-
-            //C[1, 1] = 3;
-            //metrix.Print_C();
+            C[1, 1] = 3;
+            metrix.Print_C();
         }
     }
 }
