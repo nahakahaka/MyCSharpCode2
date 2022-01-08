@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esp11\\source\\repos\\MyAI\\MyAI.csproj": {}
+    "C:\\Users\\esp11\\Source\\Repos\\nahakahaka\\MyCSharpCode2\\MyAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esp11\\source\\repos\\MyAI\\MyAI.csproj": {
+    "C:\\Users\\esp11\\Source\\Repos\\nahakahaka\\MyCSharpCode2\\MyAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esp11\\source\\repos\\MyAI\\MyAI.csproj",
+        "projectUniqueName": "C:\\Users\\esp11\\Source\\Repos\\nahakahaka\\MyCSharpCode2\\MyAI.csproj",
         "projectName": "MyAI",
-        "projectPath": "C:\\Users\\esp11\\source\\repos\\MyAI\\MyAI.csproj",
+        "projectPath": "C:\\Users\\esp11\\Source\\Repos\\nahakahaka\\MyCSharpCode2\\MyAI.csproj",
         "packagesPath": "C:\\Users\\esp11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esp11\\source\\repos\\MyAI\\obj\\",
+        "outputPath": "C:\\Users\\esp11\\Source\\Repos\\nahakahaka\\MyCSharpCode2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esp11\\AppData\\Roaming\\NuGet\\NuGet.Config",
